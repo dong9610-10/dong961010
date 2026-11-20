@@ -11,6 +11,7 @@
 | 프로젝트 | 소개 | 링크 |
 |---|---|---|
 | 🎮 AI 안경으로 서울대 가기 | AI-assisted 인터랙티브 시험 시뮬레이션 웹게임 기획·개선 | [프로젝트 소개](projects/ai-glasses-exam-game/README.md) |
+| 📚 AI 교육 학습 아카이브 | 날짜별 NVIDIA AI 교육 기록·개념·실습·복습 | [날짜별 학습 일지](learning/nvidia-ai-training/README.md) |
 | 🐍 Python & AI Learning Lab | Python, OpenAI Responses API, Gradio 실습과 학습 기록 | [학습 기록](learning/python-ai-learning-lab/README.md) |
 
 > 현재 위 폴더에는 **프로젝트 소개와 학습 기록**이 정리돼 있습니다. 실제 게임 및 실습 소스 코드는 검토·정리 후 별도로 올릴 예정입니다.
