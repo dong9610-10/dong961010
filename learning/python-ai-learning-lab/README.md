@@ -2,6 +2,8 @@
 
 > **Personal Learning Notes · NVIDIA AI Training (in progress)**
 
+📅 **날짜별 수업 기록:** [AI 교육 학습 아카이브](../nvidia-ai-training/README.md)
+
 Python과 생성형 AI를 공부하며 **직접 실행해 본 실습 내용**을 정리하는 학습 기록 공간입니다.
 
 ## 학습한 주제
