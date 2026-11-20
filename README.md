@@ -1,25 +1,30 @@
 # Hi, I'm Donghyuk 👋
 
-**Marketing × AI × Product Building**
+### Marketing × AI × Product Building
 
-마케팅 실무 경험을 바탕으로 Python과 생성형 AI를 공부하며, 직접 사용해 볼 수 있는 웹앱과 인터랙티브 프로젝트를 만들고 있습니다.
+안녕하세요! 마케팅 실무 경험을 바탕으로 Python과 생성형 AI를 배우고, 아이디어를 **직접 사용해 볼 수 있는 웹앱과 인터랙티브 콘텐츠**로 구현하고 있습니다.
 
-현재 NVIDIA AI 교육과정을 수강하며 LLM, 프롬프트 엔지니어링, OpenAI API, Gradio 등을 실습하고 있습니다.
+현재 NVIDIA AI 교육과정을 수강하며 LLM, 프롬프트 엔지니어링, OpenAI API, Gradio를 실습 중입니다. 마케팅에서 쌓은 사용자 관점과 AI 도구를 활용한 개발 역량을 연결하는 것이 목표입니다.
 
-## 🔎 What I'm working on
+## 🚀 Featured projects
 
-- 🎮 **AI 안경으로 서울대 가기** — 시험 감독관의 감시와 위험·보상 구조를 활용한 인터랙티브 웹게임을 기획하고 개선하는 프로젝트
-- 🤖 **OpenAI API + Gradio** — 대화 기록과 스트리밍 응답을 활용한 챗봇 실습
-- 📊 **Python AI Learning Lab** — Python 기초, 프롬프트 엔지니어링, 파일 분석 및 선형회귀 시각화 실습
+| 프로젝트 | 소개 | 링크 |
+|---|---|---|
+| 🎮 AI 안경으로 서울대 가기 | AI-assisted 인터랙티브 시험 시뮬레이션 웹게임 기획·개선 | [프로젝트 소개](projects/ai-glasses-exam-game/README.md) |
+| 🐍 Python & AI Learning Lab | Python, OpenAI Responses API, Gradio 실습과 학습 기록 | [학습 기록](learning/python-ai-learning-lab/README.md) |
 
-## 🛠 Tools & interests
+> 현재 위 폴더에는 **프로젝트 소개와 학습 기록**이 정리돼 있습니다. 실제 게임 및 실습 소스 코드는 검토·정리 후 별도로 올릴 예정입니다.
 
-- **Learning:** Python, Generative AI, LLMs, Prompt Engineering, OpenAI API, Gradio
-- **AI-assisted workflow:** ChatGPT, OpenAI Codex
-- **Background:** Marketing, user-focused planning and communication
+## 🛠 Learning & tools
+
+- **Learning:** Python · Generative AI · LLM · Prompt Engineering · OpenAI API · Gradio
+- **AI-assisted workflow:** ChatGPT · OpenAI Codex
+- **Background:** Marketing · User-centered planning · Communication
 
 ## 🎯 My direction
 
-마케팅에서 얻은 사용자 관점을 AI 도구 활용 및 서비스 개발과 연결하고, 학습한 내용을 실제 프로젝트와 문서로 꾸준히 기록하고자 합니다.
+기존 마케팅 경험에 AI 기술을 더해, 사용자에게 실제로 도움이 되거나 즐거움을 주는 **AI 기반 서비스와 디지털 제품**을 기획·구현하고자 합니다.
 
-> 이 저장소의 소개는 학습·프로젝트 진행 상황에 따라 업데이트합니다.
+---
+
+*개인 학습·포트폴리오 저장소입니다. NVIDIA의 공식 프로젝트나 재직 이력을 의미하지 않습니다.*
