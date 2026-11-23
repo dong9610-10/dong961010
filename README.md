@@ -1,31 +1,24 @@
-# Hi, I'm Donghyuk 👋
+# Donghyuk
 
-### Marketing × AI × Product Building
+마케팅 실무 경험을 바탕으로 Python과 생성형 AI를 학습하고 있습니다. 현재 NVIDIA AI 교육과정에서 다루는 내용을 정리하고, AI 개발 도구를 활용해 웹 애플리케이션과 게임을 제작하고 있습니다.
 
-안녕하세요! 마케팅 실무 경험을 바탕으로 Python과 생성형 AI를 배우고, 아이디어를 **직접 사용해 볼 수 있는 웹앱과 인터랙티브 콘텐츠**로 구현하고 있습니다.
+## 프로젝트
 
-현재 NVIDIA AI 교육과정을 수강하며 LLM, 프롬프트 엔지니어링, OpenAI API, Gradio를 실습 중입니다. 마케팅에서 쌓은 사용자 관점과 AI 도구를 활용한 개발 역량을 연결하는 것이 목표입니다.
-
-## 🚀 Featured projects
-
-| 프로젝트 | 소개 | 링크 |
+| 프로젝트 | 내용 | 문서 |
 |---|---|---|
-| 🎮 AI 안경으로 서울대 가기 | AI-assisted 인터랙티브 시험 시뮬레이션 웹게임 기획·개선 | [프로젝트 소개](projects/ai-glasses-exam-game/README.md) |
-| 📚 AI 교육 학습 아카이브 | 날짜별 NVIDIA AI 교육 기록·개념·실습·복습 | [날짜별 학습 일지](learning/nvidia-ai-training/README.md) |
-| 🐍 Python & AI Learning Lab | Python, OpenAI Responses API, Gradio 실습과 학습 기록 | [학습 기록](learning/python-ai-learning-lab/README.md) |
+| AI 안경 수능 게임 | 시험 진행과 감독관 감시 요소를 적용한 웹게임. 기획 및 기능 개선 중 | [프로젝트 기록](projects/ai-glasses-exam-game/README.md) |
+| AI 교육 학습 기록 | 강의별 핵심 개념, 실습 내용, 진행 상태 정리 | [학습 기록](learning/nvidia-ai-training/README.md) |
+| Python 및 API 실습 | Python 기초, OpenAI API, Gradio 실습 | [실습 목록](learning/python-ai-learning-lab/README.md) |
 
-> 현재 위 폴더에는 **프로젝트 소개와 학습 기록**이 정리돼 있습니다. 실제 게임 및 실습 소스 코드는 검토·정리 후 별도로 올릴 예정입니다.
+## 학습 분야
 
-## 🛠 Learning & tools
+- Python 프로그래밍
+- LLM 및 프롬프트 엔지니어링
+- OpenAI API, Gradio
+- AI 도구를 활용한 웹서비스 개발
 
-- **Learning:** Python · Generative AI · LLM · Prompt Engineering · OpenAI API · Gradio
-- **AI-assisted workflow:** ChatGPT · OpenAI Codex
-- **Background:** Marketing · User-centered planning · Communication
+## 기록 원칙
 
-## 🎯 My direction
+실습을 완료한 내용과 자료만 검토한 내용을 구분합니다. 구현에 사용한 AI 도구와 직접 수행한 기획·검토 작업도 별도로 표시합니다.
 
-기존 마케팅 경험에 AI 기술을 더해, 사용자에게 실제로 도움이 되거나 즐거움을 주는 **AI 기반 서비스와 디지털 제품**을 기획·구현하고자 합니다.
-
----
-
-*개인 학습·포트폴리오 저장소입니다. NVIDIA의 공식 프로젝트나 재직 이력을 의미하지 않습니다.*
+현재 저장소에는 학습 노트와 프로젝트 설명을 우선 정리하고 있습니다. 원본 소스 코드는 공개 가능 여부를 확인한 뒤 추가할 예정입니다.
