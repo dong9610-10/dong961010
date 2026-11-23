@@ -8,9 +8,19 @@
 
 | 항목 | 내용 |
 |---|---|
+| [📅 2026년 11월 23일](2026/11/2026-11-23.md) | Multimodal: Vision·이미지 생성·음성·프로젝트 과제 |
 | [📅 2026년 11월 20일](2026/11/2026-11-20.md) | Gradio Interface·Blocks·ChatInterface 실습 |
 | [🗂️ 학습 노트 템플릿](templates/daily-note.md) | 앞으로 매일 기록할 표준 형식 |
 | [🐍 Python AI Learning Lab](../python-ai-learning-lab/README.md) | 기초 실습 및 프로젝트 요약 |
+
+## 🗃️ 주제별 심화 노트
+
+| 주제 | 주요 내용 | 이동 |
+|---|---|---|
+| 👁️ Vision | I2T·메시지 구조·이미지 이해의 한계 | [Vision 노트](topics/multimodal-vision.md) |
+| 🎨 Images API | 생성·편집·Base64·Gradio 이미지 컴포넌트 | [이미지 생성 노트](topics/image-generation.md) |
+| 🎙️ Speech | STT·TTS·번역·Gradio Audio | [음성 처리 노트](topics/speech-audio.md) |
+| 🧩 자율 프로젝트 | Image+Speech 과제 요건·계획서·체크리스트 | [최종 프로젝트 준비](projects/multimodal-project-planning.md) |
 
 ## 🧭 학습 주제
 
@@ -39,6 +49,7 @@
 
 | 날짜 | 주요 내용 | 상태 |
 |---|---|---|
+| [11월 23일](2026/11/2026-11-23.md) | Multimodal 49쪽 슬라이드: Vision·Images·Speech·과제 정리 | 자료 정리 완료, 실습 미확인 |
 | [11월 20일](2026/11/2026-11-20.md) | Gradio 계산기·BMI, Blocks 및 OpenAI 챗봇 실습 | 일부 실행 확인, 일부 미확인 |
 
 ## 💡 이 기록을 활용하는 방법
