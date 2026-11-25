@@ -16,6 +16,7 @@ Python 기초부터 OpenAI API, Gradio를 활용한 애플리케이션 제작까
 | Gradio Interface | 계산기, BMI 계산기 |
 | Gradio Blocks | 파일 분석기, 선형회귀 시각화 |
 | Gradio ChatInterface | OpenAI API를 활용한 챗봇 |
+| RAG | 다중 형식 문서 로딩, 청킹, 임베딩, ChromaDB 및 Hybrid Search |
 
 ## 실행 확인 상태
 
@@ -29,8 +30,9 @@ Python 기초부터 OpenAI API, Gradio를 활용한 애플리케이션 제작까
 | 속담 그림 퀴즈 | 실행 확인, 이미지 품질 및 속도 개선 진행 |
 | 그림판 Artist | 코드 안내, 실행 결과 미확인 |
 | 영어 회화 퀴즈 | 코드 안내, 실행 결과 미확인 |
+| 다중 문서 RAG 챗봇 | 문서 6개 활용 실습 참여, 최종 평가 미확인 |
 
-세부 내용: [11월 20일 학습 기록](../nvidia-ai-training/2026/11/2026-11-20.md) · [11월 23일 학습 기록](../nvidia-ai-training/2026/11/2026-11-23.md)
+세부 내용: [11월 20일 학습 기록](../nvidia-ai-training/2026/11/2026-11-20.md) · [11월 23일 학습 기록](../nvidia-ai-training/2026/11/2026-11-23.md) · [11월 25일 RAG 및 MCP](../nvidia-ai-training/2026/11/2026-11-25.md)
 
 ## 코드 공개 기준
 
