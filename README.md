@@ -27,6 +27,7 @@
 
 | 날짜 | 학습 주제 |
 |:---|:---|
+| [2026-11-24](learning/nvidia-ai-training/2026/11/2026-11-24.md) | Tool Calling, Requests, MCP 및 콘텐츠 팀 프로젝트 기획 |
 | [2026-11-23](learning/nvidia-ai-training/2026/11/2026-11-23.md) | 멀티모달 AI, 이미지 생성, 속담 퀴즈, 음성 처리 및 영어 회화 |
 | [2026-11-20](learning/nvidia-ai-training/2026/11/2026-11-20.md) | Python 및 Gradio 기반 애플리케이션 |
 
@@ -39,6 +40,7 @@
 | Python | 변수, 조건문, 반복문, 함수, 데이터 처리 |
 | OpenAI API | Responses API, 이미지 생성 및 편집, STT, TTS |
 | Gradio | 입력·출력 UI, 버튼 이벤트, 챗봇 |
+| 외부 도구 연동 | Function Calling, HTTP Requests, FastMCP, Remote MCP (학습 중) |
 | AI 개발 도구 | ChatGPT, Codex를 활용한 기획 및 코드 구현 |
 
 [Python 및 AI 실습 목록](learning/python-ai-learning-lab/README.md) · [멀티모달 개념](learning/nvidia-ai-training/topics/multimodal-vision.md) · [이미지 생성](learning/nvidia-ai-training/topics/image-generation.md) · [음성 처리](learning/nvidia-ai-training/topics/speech-audio.md)
