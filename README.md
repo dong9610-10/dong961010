@@ -6,11 +6,19 @@
 
 | 구분 | 확인할 내용 | 이동 |
 |:---|:---|:---|
+| 주요 프로젝트 | Loop AI 광고 협업 및 사전 검수 플랫폼 | [프로젝트 보기](projects/approval-loop/README.md) |
 | 개인 프로젝트 | AI 안경 수능 게임: 기획, 기능, 개발 과정 | [프로젝트 보기](projects/ai-glasses-exam-game/README.md) |
 | 교육 및 학습 | NVIDIA AI 교육과정의 날짜별 학습 기록 | [교육 기록 보기](learning/nvidia-ai-training/README.md) |
 | Python 및 API | Python, OpenAI API, Gradio 실습과 오류 해결 | [실습 목록 보기](learning/python-ai-learning-lab/README.md) |
 
-## 01. 개인 프로젝트
+## 01. 주요 프로젝트
+
+### Loop — AI 광고 협업 및 사전 검수 플랫폼
+
+광고 캠페인 브리프부터 대본, 콘텐츠 검수, 수정 요청과 승인까지 연결하는 교육과정 프로젝트입니다. 공식 법령 데이터 및 위험 유형별 검수 기준, RAG 적용 구조를 정리했습니다.
+
+- 진행 상태: 기획 및 데이터 설계, 통합 동작 검증 전
+- [프로젝트 상세 보기](projects/approval-loop/README.md) · [작업 기록](learning/nvidia-ai-training/2026/11/2026-11-27.md)
 
 ### AI 안경 수능 게임
 
@@ -27,6 +35,7 @@
 
 | 날짜 | 학습 주제 |
 |:---|:---|
+| [2026-11-27](learning/nvidia-ai-training/2026/11/2026-11-27.md) | Loop 광고 협업, 법령 데이터 구축 및 RAG 검수 설계 |
 | [2026-11-25](learning/nvidia-ai-training/2026/11/2026-11-25.md) | MCP 및 다중 문서 RAG 챗봇, 벡터 검색과 Hybrid Search |
 | [2026-11-24](learning/nvidia-ai-training/2026/11/2026-11-24.md) | Tool Calling, Requests, MCP 및 콘텐츠 팀 프로젝트 기획 |
 | [2026-11-23](learning/nvidia-ai-training/2026/11/2026-11-23.md) | 멀티모달 AI, 이미지 생성, 속담 퀴즈, 음성 처리 및 영어 회화 |
@@ -42,6 +51,7 @@
 | OpenAI API | Responses API, 이미지 생성 및 편집, STT, TTS |
 | Gradio | 입력·출력 UI, 버튼 이벤트, 챗봇 |
 | RAG 및 문서 검색 | Embedding, ChromaDB, LangChain, Kiwi, BM25, Hybrid Search (실습) |
+| AI 광고 검수 | 법령 분류, 근거 검색, 문맥 기반 위험 분류 및 평가 설계 |
 | 외부 도구 연동 | Function Calling, HTTP Requests, FastMCP, Remote MCP (학습 중) |
 | AI 개발 도구 | ChatGPT, Codex를 활용한 기획 및 코드 구현 |
 
